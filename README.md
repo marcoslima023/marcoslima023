@@ -1,4 +1,4 @@
 - 👋ola sou Marcos Lima.
-- Meu email de contato e @Marcos023.
+- Meu email de contato é marcos@escola.pr.gov.br
 - 👀Eu estou iteressado em apreder a programar novas linguagens.
 - 🌱Eu estou apredendo a programar recentemente a linguagem de javaScript e Scratch
